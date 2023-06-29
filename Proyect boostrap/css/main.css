@@ -1,0 +1,16 @@
+:root{
+   --color-grey:#6e6a6a; 
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    color: var(--color-grey);
+}
+
+.icono{
+    font-size: 60px;
+    color: rgb(171, 19, 19);
+}
+.Parrafo{
+    color:var(--color-grey)
+}
